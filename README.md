@@ -34,6 +34,17 @@ This project explores and analyzes real-world flight data to uncover insights ab
 - Excel formulas: `IF`, `COUNTIFS`, `SUMIF`, `AVERAGEIF`, `TEXT`, `TIME`, `VLOOKUP`, etc.  
 - Data cleaning: handling missing values, converting data types  
 - Derived columns (e.g., Delay Flag, Duration Difference, Flights per Aircraft)  
-- Sorting, Filtering, and Custom Calculated Fields  
+- Sorting, Filtering, and Custom Calculated Fields
+
+**Access the Excel File**
+https://docs.google.com/spreadsheets/d/1jMRm0ShGqUT6Gl84ISLp22iKCv7X6KQy/edit?usp=drive_link&ouid=112427172747491220189&rtpof=true&sd=true
 
 ---
+**How to Use the Excel File**
+Open the Excel file and navigate through different sheets.
+Use filters and slicers to explore the data interactively.
+Refer to the visualization dashboards for summarized insights.
+Modify queries and calculations if needed for deeper analysis.
+
+**Conclusion**
+This project successfully provides insights into flight operations, airport efficiency, and aircraft utilization using Excel-based data analytics. The findings can help airlines optimize scheduling, reduce delays, and improve overall operational efficiency.
