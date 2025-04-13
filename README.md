@@ -12,6 +12,10 @@ This project explores and analyzes real-world flight data to uncover insights ab
 
 ---
 
+<img width="696" alt="image" src="https://github.com/user-attachments/assets/b4b7e910-5425-4baf-ab2a-edbfde0fad19" />
+
+------------------------------------
+
 ## 📊 Key Analyses Performed
 
 - **Top 5 Busiest Airports** by incoming/outgoing flights
